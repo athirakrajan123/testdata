@@ -1,0 +1,28 @@
+.nav-item a{
+font-size: 14px;
+font-weight:600;
+color: pink !important;
+
+}
+.nav-item a:hover{
+    color: blue !important;
+}
+.carousel-item img{
+    height: 400px;
+   
+}
+.container h3{
+    color: blue;
+    font-weight: 580;
+    font-size: 32px;
+}
+.container span{
+    color: #5e068a99 ;
+}
+.container button{
+    padding: 16px 27px;
+    font-weight: 600;
+    margin-top: 21px;
+    border-radius: 50px;
+    border: 2px solid #5e068a;
+}
